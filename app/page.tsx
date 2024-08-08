@@ -74,7 +74,7 @@ export default function Home() {
       </section>
       <section className="flex flex-col justify-start items-center py-8 w-screen max-w-full md:w-full md:py-10">
         <div className="flex flex-col justify-start items-start mt-[10px] mx-4 md:items-center">
-          <h1 className="text-[28px] font-extrabold lg:text-[48px] md:text-[32px]">Gar jest już dostępna, zacznij grać już teraz.</h1>
+          <h1 className="text-[28px] font-extrabold lg:text-[48px] md:text-[32px]">Gra jest już dostępna, zacznij grać już teraz.</h1>
           <h2 className="text-[20px] font-light mt-3 md:text-[24px] md:font-medium">Pobierz grę z oficjalnej platformy Steam, aby grać bezpiecznie. </h2>
           <h2 className="text-[18px] font-extralight mt-2 md:text-[18px] md:font-light">Dołącz do nas i zacznij grać w nowy sposób.</h2>
         </div>
